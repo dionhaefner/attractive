@@ -2,16 +2,15 @@
 
 Want to create your own images like this one
 
-![](clifford.png)
+![](img/clifford.png)
 
 or this one
 
-![](clifford2.png)
+![](img/clifford2.png)
 
-or this one
+or this one?
 
-![](clifford3.png)
+![](img/clifford3.png)
 
-?
 
 Look no further! This Jupyter Notebook provides you with anything you need, with minimal dependencies (NumPy, Cython, Matplotlib).
